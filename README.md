@@ -2,8 +2,6 @@
 
 Chat GPT Clone mobile app built using React Native Expo and Firebase. The app provides features like user login, registration, chat completion, and generating images.
 
-![Chat GPT Mobile](https://i.ibb.co/RcNyyT6/chatgpt.png)
-
 ## Features
 
 The Chat GPT Clone app offers the following features:
